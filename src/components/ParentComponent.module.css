@@ -1,0 +1,9 @@
+.parent{
+    /* border: 2px solid rgb(93, 91, 91); */
+    border-radius: 10px;
+    width: 50%;
+    margin: auto;
+    margin-top: 10vh;
+    min-width: 370px;
+    background-color: rgb(64, 64, 64);
+}
